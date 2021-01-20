@@ -1,0 +1,38 @@
+body {
+  font-family: arial;
+  background: url("waterfall.jpg");
+  background-size: cover;
+  margin: 0;
+}
+
+.flow {
+  width: 80%;
+  margin: auto;
+  background: #00000050;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: solid white 1px;
+  border-radius: 2px;
+  color: white;
+}
+
+.flow h2 {
+  margin: 10px;
+}
+
+.flow p {
+  margin: 10px 20px 20px 20px;
+  padding: 0px 50px;
+}
+
+.category {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.elf-widget {
+  width: 100%;
+}
