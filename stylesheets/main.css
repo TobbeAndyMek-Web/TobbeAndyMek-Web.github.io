@@ -1,6 +1,6 @@
 body {
   font-family: arial;
-  background: url("waterfall.jpg");
+  background: url("/images/waterfall.jpg");
   background-size: cover;
   margin: 0;
 }
